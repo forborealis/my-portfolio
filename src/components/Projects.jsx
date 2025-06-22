@@ -19,7 +19,7 @@ const Projects = () => {
     {
       id: 2,
       title: "Acadena",
-      description: "A decentralized platform built on the Internet Computer that allows a seamless experience for insitutions and students to process, request, and release academic documents which are secured and verified on the blockchain.",
+      description: "A decentralized platform built on the Internet Computer that allows a seamless experience for insitutions and students to process, request, and release academic documents which are secured and verified on the blockchain. This project is a group effort and collaboration which was submitted as an entry for the iThink Hackathon for Philippine Blockchain Week 2025.",
       image: Acadena,
       technologies: ["React", "Node.js", "Motoko"],
       liveUrl: "https://tcm44-raaaa-aaaab-qbzya-cai.icp0.io/",
