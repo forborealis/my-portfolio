@@ -36,7 +36,7 @@ const About = () => {
 
               
               <p className="text-gray-300 text-lg leading-relaxed text-justify">
-                I'm Hannah Aurora O. Busto, currently a third-year Information Technology student at the Technological University of the Philippines - Taguig.
+                I'm Hannah Aurora O. Busto, currently a fourth-year Information Technology student at the Technological University of the Philippines - Taguig.
               </p>
               
               <p className="text-gray-300 text-lg leading-relaxed text-justify">
