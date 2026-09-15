@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="absolute top-0 left-0 w-64 h-64 bg-primary-500/5 rounded-full blur-3xl -translate-x-32 -translate-y-32"></div>
       <div className="absolute bottom-0 right-0 w-64 h-64 bg-primary-600/5 rounded-full blur-3xl translate-x-32 translate-y-32"></div>
       
-      <div className="container mx-auto px-6 py-8 relative z-10">
+      <div className="container mx-auto px-4 py-8 relative z-10 sm:px-6">
         <div className="max-w-6xl mx-auto">
           <div className="text-center space-y-2">
             <p className="text-gray-400 text-sm">

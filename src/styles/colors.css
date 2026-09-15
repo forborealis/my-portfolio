@@ -1,0 +1,13 @@
+:root {
+  --color-powder-pink: #f8bbd0;
+  --color-milky-white: #fff8f0;
+  --color-soft-black: #2d2929;
+  --color-muted-black: #655b5d;
+  --color-image-surface: #e7e4e2;
+  --color-border: rgba(45, 41, 41, 0.16);
+}
+
+body {
+  background-color: var(--color-milky-white);
+  color: var(--color-soft-black);
+}
