@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import profileImage from '../assets/images/corporateImage.jpg';
+import profileImage from '../assets/images/corporateImage.JPG';
 
 const Hero = () => {
   const [isTextVisible, setIsTextVisible] = useState(false);
